@@ -1,4 +1,4 @@
-Hi 👋 My name is PRAVAKAR MUDULI
+Hi 👋 My name is PRAVAKAR
 ================================
 
 Full-stack Java Devloper
