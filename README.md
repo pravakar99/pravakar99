@@ -6,7 +6,7 @@ Full-stack Java Devloper
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Pravakar](http://pravakar99.github.io/myportfolio/)
-* ✉️  You can contact me at [prvkrmuduli@gmail.com](mailto:prvkrmuduli@gmail.com)
+* ✉️  You can contact me at [PravakarMuduli99@gmail.com](mailto:pravakarmuduli99@gmail.com)
 * 🚀  I'm currently working on [Wynsure](https://www.wyde.com/en/home/products/wynsure.html)
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborate on Linkedin
